@@ -10,6 +10,10 @@ AdInsight is a powerful, interactive dashboard for analyzing Reddit ad performan
 - Raw data view with download option
 - SQLite database integration for efficient data storage and retrieval
 - Responsive design for various screen sizes
+  
+
+  <img width="1514" alt="Screenshot 2024-09-10 at 5 15 52 PM" src="https://github.com/user-attachments/assets/ae3c66dc-e40f-429e-a118-3277014c5491">
+
 
   <img width="1515" alt="Screenshot 2024-09-10 at 5 11 58 PM" src="https://github.com/user-attachments/assets/fcc9eb03-ccc6-41f1-ad81-e35eaa074b8e">
 
