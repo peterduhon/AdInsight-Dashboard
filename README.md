@@ -29,12 +29,12 @@ AdInsight is a powerful, interactive dashboard for analyzing Reddit ad performan
 1. Clone this repository:
 git clone https://github.com/yourusername/adinsight.git
 cd adinsight
-Copy2. Create a virtual environment:
+Create a virtual environment:
 python3 -m venv venv
 source venv/bin/activate
-Copy3. Install required packages:
+Install required packages:
 pip install -r requirements.txt
-Copy
+
 ## Usage
 1. Ensure your virtual environment is activated
 2. Run the Streamlit app:
