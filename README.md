@@ -39,7 +39,7 @@ pip install -r requirements.txt
 1. Ensure your virtual environment is activated
 2. Run the Streamlit app:
 streamlit run app.py
-Copy3. Open your web browser and navigate to the URL provided by Streamlit (typically http://localhost:8501)
+Open your web browser and navigate to the URL provided by Streamlit (typically http://localhost:8501)
 
 ## Data Management
 - The app uses a SQLite database located at `data/ad_performance.db`
